@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Salim FARDEHEB 👋
 
-<!--
-**salimxfardeheb/salimxfardeheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer passionate about UI/UX design, front-end development, and database management. Currently, I am pursuing a **Master's Degree in Computer Systems and Data** at the USTO University.
 
-Here are some ideas to get you started:
+## Programming Languages
+- JavaScript
+- Java
+- Python
+- Node.js
+<!-- - Flutter-->
+- MySQL
+<!-- - 🔭 I’m working on a mobile app for stadium reservation: **PlayTimeReserve** -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me:
+- [Portfolio](https://main--salimsportfolio.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/salim-fardeheb-777a0a2b1/)
+- [Email](mailto:salimfardeheb442@gmail.com)
