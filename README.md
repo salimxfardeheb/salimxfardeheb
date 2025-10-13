@@ -7,6 +7,7 @@ I am a developer passionate about UI/UX design, front-end development, and datab
 - Java
 - Python
 - Node.js
+- Next.js
 <!-- - Flutter-->
 - MySQL
 <!-- - 🔭 I’m working on a mobile app for stadium reservation: **PlayTimeReserve** -->
