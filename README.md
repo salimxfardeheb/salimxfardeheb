@@ -1,6 +1,6 @@
 # Hi, I'm Salim FARDEHEB 👋
 
-I am a developer passionate about UI/UX design, front-end development, and database management. Currently, I am pursuing a **Master's Degree in Computer Systems and Data** at the USTO University.
+I am a developer passionate about UI/UX design, web development, and database management. Currently, I am pursuing a **Master's Degree in Computer Systems and Data** at the USTO University.
 
 ## Programming Languages
 - JavaScript
@@ -10,6 +10,8 @@ I am a developer passionate about UI/UX design, front-end development, and datab
 - Next.js
 <!-- - Flutter-->
 - MySQL
+- PostgreSQL
+- Firebase
 <!-- - 🔭 I’m working on a mobile app for stadium reservation: **PlayTimeReserve** -->
 
 ## Contact Me:
